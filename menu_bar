@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bar Menu</title>
+  </head>
+  <body>
+    <main>
+      <div class="menu">
+        <h1>Menu Bar</h1>
+        <h4><em>Naples 1998</em></h3>
+          <section class="coffee">
+            <h2><i>Caffè:</i></h2>
+            <article>
+              <p>Caffè</p>
+              <p>1.50$</p>
+              </article>
+              <article>
+              <p>Caffè macchiato</p>
+              <p>2.50$</p>
+            </article>
+          </section>
+          <section class="sweets">
+            <h2><i>Dolci:</i></h2>
+             <article>
+                <p>Cornetto semplice</p>
+                <p>1.20$</p>
+              </article> 
+              <article>
+                <p>Cornetto al cioccolato</p>
+                <p>1.50$</p>
+              </article>
+              <article>
+                <p>Cornetto alla crema</p>
+                <p>1.50$</p>
+              </article>
+          </section> 
+          <section class="bibite">
+            <h2><i>Bibite:</i></h2>
+             <article>
+                <p>Acqua naturale</p>
+                <p>1.00$</p>
+              </article> 
+              <article>
+                <p>Acqua frizzante</p>
+                <p>1.10$</p>
+              </article>
+              <article>
+                <p>Pepsi</p>
+                <p>1.50$</p>
+              </article>
+          </section>                   
+      </div>
+    </main>
+  </body>
+</html>
